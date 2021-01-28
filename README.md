@@ -1,5 +1,5 @@
 
-Some fairly generic tensorflow code to classify images based on fine tuing the VGG16 convolution network.
+Some fairly generic tensorflow code to classify images based on fine tuning the VGG16 convolution network.
 
 
 CatSourceImages: a dataset of images of two cats Ada Cat and Pris Cat. Taken by Dr Nick
